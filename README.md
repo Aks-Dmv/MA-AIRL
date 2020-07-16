@@ -4,6 +4,8 @@ International Conference on Machine Learning (ICML), 2019.
 
 ## Running the Code
 
+- Please note that we need to install Mujoco150.
+- Also, make sure the export path for Mujoco150 is correctly identified as "mjpro150"
 - For code implementing MA-AIRL, please visit `multi-agent-irl` folder.
 - For the OpenAI particle environment code, please visit `multi-agent-particle-envs` folder.
 
