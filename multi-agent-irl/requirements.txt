@@ -9,4 +9,4 @@ tqdm
 joblib
 progressbar2
 zmq
-cloudpickle
+cloudpickle = 1.3
